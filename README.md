@@ -1,16 +1,20 @@
-### Hi there 👋
+<h1>Hi, I'm Andrea 👋🏻</h1>
 
-<!--
-**andrealamon96/andrealamon96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3></h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### aboutMe.js
+```javascript
+const andrea = {
+    pronouns: "she" | "her",
+    code: [Javascript, HTML, CSS],
+    askMeAbout: ["web dev", "tech", "disney", "movies", "coffee"],
+    technologies: {
+        frontEnd: {
+            frameworks: ['Angular']
+        },
+        learning: {
+            backEnd: ['Node.js']
+        }        
+    }
+};
+```
