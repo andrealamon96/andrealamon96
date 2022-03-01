@@ -1,12 +1,11 @@
 <h1>Hi, I'm Andrea 👋🏻</h1>
 
-<h3></h3>
 
 ### aboutMe.js
 ```javascript
 const andrea = {
     pronouns: 'she' | 'her',
-    code: [Javascript, HTML, CSS],
+    code: ['Javascript', 'TupeScript', 'HTML', 'CSS'],
     askMeAbout: ['web dev', 'tech', 'disney', 'movies', 'coffee'],
     technologies: {
         frontEnd: {
