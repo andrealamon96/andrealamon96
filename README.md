@@ -5,7 +5,7 @@
 ```javascript
 const andrea = {
     pronouns: 'she' | 'her',
-    code: ['Javascript', 'TupeScript', 'HTML', 'CSS'],
+    code: ['Javascript', 'TypeScript', 'HTML', 'CSS'],
     askMeAbout: ['web dev', 'tech', 'disney', 'movies', 'coffee'],
     technologies: {
         frontEnd: {
